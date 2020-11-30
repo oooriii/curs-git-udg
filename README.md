@@ -1,2 +1,2 @@
 # curs-git-udg
-Prèctiques curs git udg 2020
+Pràctiques curs git udg 2020
